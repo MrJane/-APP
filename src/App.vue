@@ -6,7 +6,7 @@
     <keep-alive>
       <router-view/>
     </keep-alive>
-    <!--播放器组件业务需求上不是路由组件，因为可以从很多页面可以跳转过来，所以放在app 底部-->
+    <!--播放器组件业务需求上不是路由组件，因为可以从很多页面可以跳转过来，所以放在app底部-->
     <el-play></el-play>
   </div>
 </template>
